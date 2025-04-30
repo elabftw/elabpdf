@@ -1,0 +1,12 @@
+name,url,note,score,date tested
+openbis,openbis-eln-lims.ethz.ch,c,55,2025/04/30
+rspace,https://demos.researchspace.com/login,b,75,2025/04/30
+labfolder,https://account.labforward.app,b+,80,2025/04/30
+chemotion,https://demo.chemotion.ibcs.kit.edu/home,c-,45,2025/04/30
+scinote,https://scinote.demo.chemotion.scc.kit.edu/users/sign_in,b,70,2025/04/30
+openenvotory,https://oe.demo.chemotion.scc.kit.edu/,c-,45,2025/04/30
+enovalys,https://next.soft-enovalys.com/,d-,25,2025/04/30
+elog,https://elog.psi.ch/elogs/Linux+Demo/,d,30,2025/04/30
+kadi4mat,https://demo-kadi4mat.iam.kit.edu/,a+,105,2025/04/30
+elabftw,https://demo.elabftw.net/login.php,a+,115,2025/04/30
+labcollector,https://www.labcollector.com/clientarea/login.php,c,50,2025/04/30
